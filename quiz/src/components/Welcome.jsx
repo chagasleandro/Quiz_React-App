@@ -1,4 +1,4 @@
-import Quiz from '../img/quiz.svg';
+import Quiz from '../img/quiz1.svg';
 
 import "./Welcome.css";
 
